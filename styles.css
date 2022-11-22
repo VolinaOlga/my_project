@@ -35,3 +35,8 @@
     color: red;
     font-size: 20px;
   }
+  .created {
+    display: block;
+    text-align: center;
+    font-size: 10px;;
+}
